@@ -1,7 +1,7 @@
 # Insurance Claim Prediction: A Machine Learning Approach 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saikat912/Predicting-Insurance-Claims-Unlocking-Insights-with-Machine -Learning/blob/main/Updated_Insurance-Domain.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/saikat912/Predicting-Insurance-Claims-Unlocking-Insights-with-Machine -Learning/blob/main/Updated_Insurance-Domain.ipynb](https://colab.research.google.com/drive/1Uf1CJWpO1MJzG8N-zwEQnU_1P5mw89G4))
 
 ## Overview 🔍
 
